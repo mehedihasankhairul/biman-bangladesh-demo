@@ -1,0 +1,8 @@
+html,
+body {
+    background-image : url(./images/biman.jpg);
+    background-repeat: no-repeat;
+    background-size  : cover;
+    padding          : 0;
+    margin           : 0;
+}
